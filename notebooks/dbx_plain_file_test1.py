@@ -1,4 +1,4 @@
  def greet(name):
-         return f"hello {name}, from Databricks"
+         return f"hello {name}, remote GitHub change"
 
      print(greet("dbx"))
